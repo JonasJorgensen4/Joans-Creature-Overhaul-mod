@@ -15,4 +15,4 @@ Added Hyper Epics.
 
 Epics can spawn in herds. 
 
-# DM JonasJorgensen#9156 for questions
+# DM JonasJorgensen#9156 for questions, feedback or bug reports.
